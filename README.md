@@ -4,7 +4,7 @@ Please adhere to [Cornell University's Academic Integrity Policy](http://cuinfo.
 
 ## Overview
 
-This is a chess project that I completed with three other partners (John, Max, Eli) for my undergraduate Functional Programming class. 
+This is a chess project that I completed with [three other partners (John, Max, Eli)](https://github.com/saaqebs/Chess/blob/master/authors.mli) for my undergraduate Functional Programming class. 
 
 The game has four features: Human v. Human, Human v. Easy Computer, Human v. Advanced Computer, and spectating the Easy Computer v. Advanced Computer.
 
