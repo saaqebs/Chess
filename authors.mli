@@ -1,7 +1,7 @@
 (**
    Metadata about this submission.
-   @author John DeMoully jjd268, Eli Marks (em755), Saaqeb Siddiqi (ss3759) 
-   and Maxwell Anderson (mga58)
+   @author John DeMoully ******, Eli Marks (******), Saaqeb Siddiqi (******) 
+   and Maxwell Anderson (******)
 *)
 
 (** [hours_worked] is a list of the number of hours each team member
