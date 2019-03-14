@@ -10,7 +10,7 @@ The game has four features: Human v. Human, Human v. Easy Computer, Human v. Adv
 
 ## Design
 
-The design is based off Vectors, Boards, and Player modules. These modules are built upon one another, creating a complex layering of code to efficiently create the system. The game is entirely made in OCaml, but does not use the GUI library; instead we print to the terminal window (we were not allowed as prescribed by the professor). 
+The design is based off ```Vectors```, ```Boards```, and ```Player``` modules. These modules are built upon one another, creating a complex layering of code to efficiently create the system. The game is entirely made in OCaml, but does not use the GUI library; instead we print to the terminal window (we were not allowed as prescribed by the professor). 
 
 ## Running
 
