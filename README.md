@@ -14,4 +14,4 @@ The design is based off ```Vectors```, ```Boards```, and ```Player``` modules. T
 
 ## Running
 
-To run the game, download this repository. Change your terminal's directory to the folder containing this directory. afterwards, type `make play`. Given that you have OCaml installed on your computer, it should immediately run the chess program and you should be prompted with the proper questions.
+To run the game, download this repository. Change your terminal's directory to the folder containing this directory. Afterwards, type `make play`. Given that you have OCaml installed on your computer, it should immediately run the chess program and you should be prompted with the proper questions.
